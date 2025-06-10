@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xxr3RWDo9tBjoHry0r8R5WpUyJvRsVnn5Z/px47g5IBQfozRQI4VNh0YPH2q7S5sTaWUYmsfCmWCBb4qFMZdlQ==",
+  "success": true,
+  "projectFilePath": "/Users/ivanpeshterski/Projects/demo/demo.csproj",
+  "expectedPackageFiles": [
+    "/Users/ivanpeshterski/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/ivanpeshterski/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/ivanpeshterski/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
